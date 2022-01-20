@@ -2,7 +2,7 @@
 
 BootCamp da Digital Innovation One para Desenvolvimento Web.
 
-## Linguagens Estudadas:
+## Linguagens Estudadas
 
 * HTML 5
 * CSS3
@@ -20,4 +20,4 @@ BootCamp da Digital Innovation One para Desenvolvimento Web.
 7. Criando Repositório | **Completo**
 8. Mentoria #2: Apresentação | **31/01/2022**
 9. Mentoria #3: Aplicando Conceitos de GIT na prática | **03/02/2022**
-10. Primeiros passos para desenvolvimento web | 
+10. Primeiros passos para desenvolvimento web |
