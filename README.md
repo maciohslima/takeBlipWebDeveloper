@@ -14,7 +14,7 @@ BootCamp da Digital Innovation One para Desenvolvimento Web.
 1. Boas Vindas | **Completo**
 2. Mentoria: Aula Inaugural | **26/01/2022**
 3. Lógica de Programação Essencial | **Completo**
-4. Primeiros Passos para Começar a Programar | 
+4. Primeiros Passos para Começar a Programar | **Em andamento**
 5. Aprenda o que são Estruturas de Dados e Algorítimos | **Completo**
 6. Introdução ao GIT e ao GITHUB | **Completo**
 7. Criando Repositório | **Completo**
