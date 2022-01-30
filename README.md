@@ -22,4 +22,4 @@ BootCamp da Digital Innovation One para Desenvolvimento Web.
 9. Mentoria #3: Aplicando Conceitos de GIT na prática | **03/02/2022**
 10. Primeiros passos para desenvolvimento web | **Em Andamento**
 11. Introducao a criacao de websites com HTML5 e CSS3 | **Completo**
-12. Construindo paginas para internet com Bootstrap | 
+12. Construindo paginas para internet com Bootstrap |
